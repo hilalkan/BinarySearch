@@ -1,4 +1,4 @@
-# MERGE SORT PROJESİ
+# Binary Search
 
 #Proje 3
 
